@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080823402442",
+    "project_id": "moodboard-b67d9",
+    "storage_bucket": "moodboard-b67d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080823402442:android:067a2899fab67470d88933",
+        "android_client_info": {
+          "package_name": "com.example.moodboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELCgqbOwoZMfOnj3Z9Ou6sxK0bNC7osQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
