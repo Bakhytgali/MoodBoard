@@ -85,7 +85,7 @@ fun NotesDisplay(
                     .height(300.dp),
                 verticalArrangement = Arrangement.spacedBy(10.dp)
             ) {
-                items(notes) { note ->
+                items(notes.reversed()) { note ->
                     NoteCard(
                         note = note,
                         modifier = modifier.clickable {
